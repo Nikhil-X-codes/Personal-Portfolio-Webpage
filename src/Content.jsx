@@ -95,7 +95,9 @@ export const HeroSection = () => {
 export const Projects = () => {
   const projects = [
     { id: 1, image: '/healthcart.jpg', title: 'Healthcart', tech: ['HTML', 'CSS', 'JavaScript'], github: 'https://github.com/Nikhil-X-codes/Healthcart', live: 'https://nikhil-x-codes.github.io/Healthcart/' },
-    { id: 2, image: '/portfilio.jpg', title: 'Personal Portfolio', tech: ['HTML', 'CSS', 'JavaScript', 'React'], github: 'https://github.com/Nikhil-X-codes/PERSONAL-PORTFOLIO-WEBPAGE', live: '#' },
+    { id: 2, image: '/portfilio.jpg', title: 'Personal Portfolio', tech: ['HTML', 'CSS', 'JavaScript', 'React'], github: 'https://github.com/Nikhil-X-codes/Personal-Portfolio-Webpage', live: '' },
+    { id: 3, image: '/Hollywap.png', title: 'Hollywap', tech: ['HTML', 'CSS', 'JavaScript', 'React'], github: 'https://github.com/Nikhil-X-codes/Hollywap', live: 'https://67a97df10e3cc30a00d2c232--iridescent-unicorn-22f645.netlify.app/' },
+    { id: 4, image: '/fitgym.png', title: 'FitGym Life', tech: ['HTML', 'CSS'], github: 'https://github.com/Nikhil-X-codes/FitLife-Gym', live: 'https://nikhil-x-codes.github.io/FitLife-Gym/' },
   ];
 
   return (
