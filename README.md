@@ -1,8 +1,28 @@
-# React + Vite
+# PERSONAL PORTFOLIO WEBPAGE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+*COMPANY NAME*-CODTECH IT SOLUTIONS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+*NAME*-NIKHIL NAGAR
+
+
+*INTERN-ID*-CT08LRS
+
+
+*DOMAIN*-FRONT END DEVELOPMENT
+
+
+*DURATION*-4 Weeks
+
+
+*MENTOR*-NEELA SANTOSH
+
+
+# Description
+
+A portfolio webpage is a personal website designed to highlight an individual’s skills, experience, and accomplishments. It serves as a digital resume, allowing potential employers, clients, or collaborators to explore projects, expertise, and professional background. The site includes an "About Me" section, project showcases with detailed descriptions, social media links, and contact options.
+
+With a fully responsive design, it ensures accessibility across all devices. A hamburger menu enhances navigation, while smooth animations and transitions create an engaging user experience. Technologies such as HTML, CSS, and JavaScript (or React for a dynamic UI) power the site, ensuring optimal performance. Additional features like a contact form, resume download, and light/dark mode toggle can enhance functionality.
+
+The portfolio not only represents technical skills but also personal branding, making it an essential tool for job seekers, freelancers, and professionals looking to establish an online presence.
