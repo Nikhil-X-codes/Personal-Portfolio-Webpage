@@ -198,7 +198,6 @@ export const About = () => {
 export const Links = () => {
   const profiles = [
     { name: 'Leetcode', link: 'https://leetcode.com/u/nagarn2005/' },
-    { name: 'Codechef', link: 'https://www.codechef.com/users/nikhil_ngr' },
     { name: 'Codolio', link: 'https://codolio.com/profile/J6G0HHGi' },
     { name: 'Github', link: 'https://github.com/Nikhil-X-codes' },
   ];
